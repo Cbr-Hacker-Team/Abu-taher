@@ -7,13 +7,13 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/Cbr-Hacker-Team/Abu-taher.git
 
 ### cd DDos-Attack
 
-### chmod +x ddos-attack.py
+### chmod +x Abu-taher.py
 
-### python ddos-attack.py
+### python Abu-taher.py
 
 ### ScreenShot 
 
