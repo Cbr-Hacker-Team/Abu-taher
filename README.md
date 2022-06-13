@@ -9,11 +9,11 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### git clone https://github.com/Cbr-Hacker-Team/Abu-taher.git
 
-### cd DDos-Attack
+### cd Abu-taher
 
 ### chmod +x Abu-taher.py
 
-### python Abu-taher.py
+### python Abu-taher.py (host:ip)
 
 ### ScreenShot 
 
