@@ -11,9 +11,15 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### cd Abu-taher
 
-### chmod +x Abu-taher.py
+### chmod +x ddos-attack.py
 
-### python Abu-taher.py (host:ip)
+### python ddos-attack.py (host:ip)
+
+User : Abu-taher
+
+Password : abutaher 
+
+Attack run.....
 
 ### ScreenShot 
 
