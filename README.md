@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Cbr-Hacker-Team/Abu-taher.git
+### git clone git clone https://github.com/Cbr-Hacker-Team/DDos-Attack.git
 
 ### cd Abu-taher
 
