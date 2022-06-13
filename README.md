@@ -9,7 +9,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### git clone git clone https://github.com/Cbr-Hacker-Team/DDos-Attack.git
 
-### cd Abu-taher
+### cd cd DDos-Attackgit clone https://github.com/Ha3MrX/DDos-Attack
+
+## cd DDos-Attack
 
 ### chmod +x ddos-attack.py
 
